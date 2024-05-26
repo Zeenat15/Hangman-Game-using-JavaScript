@@ -1,1 +1,1 @@
-# Hungman-Game-using-JavaScript
+# Hangman-Game-using-JavaScript
